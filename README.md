@@ -28,12 +28,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/katiawinkert)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatiaWinkert&show_icons=true&theme=codeSTACKr)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatiaWinkert)](https://github.com/KatiaWinkert/github-readme-stats)
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zenfpjnilp3fcys2bwe5e6xdq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=28c83a)](https://github.com/kittinan/spotify-github-profile) 
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="![eaca323b5d9110b3c053c041a827afb5](https://github.com/user-attachments/assets/52802599-702d-40f3-93a1-71f7ff8664a3)
+  <img align="center" src="(https://github.com/user-attachments/assets/52802599-702d-40f3-93a1-71f7ff8664a3)
  " alt="Imagem">
 </p>
