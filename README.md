@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/KatiaWinkert/KatiaWinkert/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <!-- Presentation -->
 <p>
@@ -44,7 +44,6 @@
   <img src="https://profile-counter.glitch.me/KatiaWinkert/count.svg?"  />
 </div>
 
-###
 
 
 
