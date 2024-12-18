@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 36 years old, currently living in Brazil. I'm student in English and have experience with SQL, Mongodb, firebase,  Javascript, React,  TypeScript, software developer Front and, Backend. I'm also student psychology student with the aim of bringing the importance of mental health in the organizational environment and to the area of ​​technology, thus being able to provide a more welcoming and productive environment
+  - 💬 I am 36 years old, currently living in Brazil. I'm student in English and have experience with SQL, Mongodb, firebase,  Javascript, React,  TypeScript, software developer Front and, Backend. I'm also student psychology. Student with the aim of bringing the importance of mental health in the organizational environment and to the area of ​​technology, thus being able to provide a more welcoming and productive environment.
 
   - ⚡ I like reading, whether it's good books about mental health, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
