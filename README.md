@@ -4,6 +4,10 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<img src="https://raw.githubusercontent.com/KatiaWinkert/KatiaWinkert/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Katia! A passionate software engineer student from Brazil.
@@ -30,10 +34,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatiaWinkert&show_icons=true&theme=codeSTACKr)
 
 
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zenfpjnilp3fcys2bwe5e6xdq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=28c83a)](https://github.com/kittinan/spotify-github-profile) 
 
 <!-- GIF -->
 ![eaca323b5d9110b3c053c041a827afb5](https://github.com/user-attachments/assets/eed44976-267f-4460-9159-75ceb6c629ef)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KatiaWinkert/count.svg?"  />
+</div>
+
+###
 
 
 
