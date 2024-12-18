@@ -33,7 +33,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zenfpjnilp3fcys2bwe5e6xdq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=28c83a)](https://github.com/kittinan/spotify-github-profile) 
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="(https://github.com/user-attachments/assets/52802599-702d-40f3-93a1-71f7ff8664a3)
- " alt="Imagem">
-</p>
+![eaca323b5d9110b3c053c041a827afb5](https://github.com/user-attachments/assets/eed44976-267f-4460-9159-75ceb6c629ef)
+
+
+
+
